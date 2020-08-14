@@ -12,5 +12,6 @@ Patient ID;relative date;masking volume;VAS-L;VAS-I;qualite_endormissement;quali
 1BA07;2;10.666666666666666;5;2;Comme d'habitude;Comme d'habitude;Mauvaise;21:50:00;22:15:00;06:30:00;08:00:00
 1BA07;3;7.666666666666667;5;2;Comme d'habitude;Comme d'habitude;Normal;23:00:00;23:20:00;06:15:00;07:15:00
 1BA07;4;9.666666666666666;5;3;Comme d'habitude;Comme d'habitude;Normal;23:00:00;23:20:00;06:10:00;07:15:00
+1BA07;5;8.666666666666666;;;;;;;;;
 1BA07;6;11.666666666666666;5;3;Comme d'habitude;Mauvaise;Normal;23:00:00;23:30:00;05:40:00;07:05:00
 1BA07;7;9.666666666666666;4;2;Comme d'habitude;Comme d'habitude;Bonne;22:45:00;23:10:00;05:15:00;07:15:00

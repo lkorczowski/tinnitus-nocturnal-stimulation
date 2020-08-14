@@ -1,4 +1,6 @@
 Patient ID;relative date;masking volume;VAS-L;VAS-I;qualite_endormissement;qualite_reveil;forme_veille;heure_mise_au_lit;heure_endormissement;heure_reveil;heure_lever_du_lit
+1GB18;-8;;5;6;Comme d'habitude;Comme d'habitude;Bonne;22:55:00;23:30:00;06:10:00;06:35:00
+1GB18;-7;13.666666666666666;;;;;;;;;
 1GB18;-6;13.666666666666666;5;5;Bonne;Comme d'habitude;Normal;23:50:00;00:10:00;05:50:00;06:05:00
 1GB18;-5;13.0;5;4;Bonne;Comme d'habitude;Bonne;22:15:00;23:00:00;06:15:00;06:40:00
 1GB18;-4;13.0;5;5;Bonne;Bonne;Normal;22:50:00;23:50:00;05:50:00;06:15:00
@@ -7,3 +9,9 @@ Patient ID;relative date;masking volume;VAS-L;VAS-I;qualite_endormissement;quali
 1GB18;-1;16.666666666666668;5;4;Bonne;Comme d'habitude;Normal;21:00:00;21:30:00;05:00:00;06:00:00
 1GB18;0;16.666666666666668;5;5;Bonne;Bonne;Normal;22:00:00;22:40:00;06:00:00;06:20:00
 1GB18;1;15.0;5;4;Bonne;Bonne;Normal;22:15:00;23:15:00;06:30:00;07:30:00
+1GB18;2;14.333333333333334;;;;;;;;;
+1GB18;3;13.666666666666666;;;;;;;;;
+1GB18;4;16.0;;;;;;;;;
+1GB18;5;18.666666666666668;;;;;;;;;
+1GB18;6;18.0;;;;;;;;;
+1GB18;7;16.333333333333332;;;;;;;;;

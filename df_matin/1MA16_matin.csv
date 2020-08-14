@@ -1,7 +1,10 @@
 Patient ID;relative date;masking volume;VAS-L;VAS-I;qualite_endormissement;qualite_reveil;forme_veille;heure_mise_au_lit;heure_endormissement;heure_reveil;heure_lever_du_lit
 1MA16;-8;4.0;2;0;Bonne;Très bonne;Bonne;00:15:00;00:25:00;06:35:00;06:35:00
+1MA16;-5;;4;1;Très bonne;Très bonne;Bonne;01:15:00;01:20:00;06:15:00;06:15:00
+1MA16;-4;;3;3;Très bonne;Très bonne;Très bonne;01:15:00;01:20:00;07:00:00;07:00:00
 1MA16;-3;4.0;2;3;Très bonne;Très bonne;Très bonne;01:35:00;01:40:00;07:35:00;07:35:00
 1MA16;-2;5.0;2;2;Bonne;Très bonne;Bonne;00:45:00;00:55:00;06:35:00;06:35:00
 1MA16;-1;4.0;2;2;Comme d'habitude;Mauvaise;Bonne;00:10:00;03:00:00;06:45:00;06:45:00
 1MA16;0;3.0;2;2;Bonne;Très bonne;Mauvaise;00:00:00;01:00:00;06:10:00;06:15:00
+1MA16;1;;1;2;Très bonne;Très bonne;Très bonne;00:30:00;00:30:00;07:00:00;07:00:00
 1MA16;5;4.0;3;1;Très bonne;Très bonne;Très bonne;00:30:00;00:35:00;07:00:00;07:00:00

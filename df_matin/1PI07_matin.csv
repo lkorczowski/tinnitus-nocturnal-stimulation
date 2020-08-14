@@ -1,4 +1,6 @@
 Patient ID;relative date;masking volume;VAS-L;VAS-I;qualite_endormissement;qualite_reveil;forme_veille;heure_mise_au_lit;heure_endormissement;heure_reveil;heure_lever_du_lit
+1PI07;-9;;5;5;Comme d'habitude;Mauvaise;Mauvaise;23:25:00;23:45:00;06:43:00;07:35:00
+1PI07;-8;;4;4;Mauvaise;Comme d'habitude;Bonne;23:30:00;01:00:00;06:10:00;07:35:00
 1PI07;-7;20.666666666666668;6;5;Bonne;Comme d'habitude;Bonne;23:20:00;23:35:00;07:00:00;08:40:00
 1PI07;-6;30.0;5;5;Très bonne;Comme d'habitude;Bonne;03:30:00;03:40:00;08:40:00;10:10:00
 1PI07;-5;25.333333333333332;3;3;Bonne;Bonne;Bonne;23:01:00;23:05:00;07:20:00;07:35:00
@@ -12,3 +14,4 @@ Patient ID;relative date;masking volume;VAS-L;VAS-I;qualite_endormissement;quali
 1PI07;3;32.666666666666664;5;5;Comme d'habitude;Comme d'habitude;Bonne;11:00:00;11:30:00;07:00:00;07:45:00
 1PI07;4;27.0;7;7;Comme d'habitude;Comme d'habitude;Normal;11:00:00;11:15:00;07:00:00;07:35:00
 1PI07;5;29.666666666666668;7;8;Mauvaise;Comme d'habitude;Mauvaise;23:00:00;00:30:00;07:00:00;07:35:00
+1PI07;6;;7;6;Comme d'habitude;Comme d'habitude;Normal;11:00:00;11:45:00;07:00:00;08:30:00
