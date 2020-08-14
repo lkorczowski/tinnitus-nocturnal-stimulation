@@ -1,0 +1,8 @@
+Patient ID;relative date;masking volume;VAS-L;VAS-I;qualite_endormissement;qualite_reveil;forme_veille;heure_mise_au_lit;heure_endormissement;heure_reveil;heure_lever_du_lit
+1SA14;-5;14.333333333333334;5;4;Bonne;Bonne;Bonne;22:00:00;22:40:00;07:30:00;08:00:00
+1SA14;-4;20.0;6;6;Bonne;Mauvaise;Normal;22:30:00;23:30:00;09:00:00;09:45:00
+1SA14;-2;9.0;4;4;Comme d'habitude;Bonne;Bonne;22:30:00;23:30:00;08:00:00;08:40:00
+1SA14;-1;7.333333333333333;5;4;Mauvaise;Mauvaise;Bonne;21:00:00;22:30:00;06:55:00;07:10:00
+1SA14;0;5.333333333333333;4;4;Mauvaise;Bonne;Normal;21:00:00;23:00:00;07:00:00;07:20:00
+1SA14;2;5.0;6;5;Bonne;Bonne;Normal;22:30:00;23:30:00;09:00:00;09:30:00
+1SA14;4;4.0;4;3;Bonne;Bonne;Bonne;22:30:00;23:00:00;09:00:00;09:30:00

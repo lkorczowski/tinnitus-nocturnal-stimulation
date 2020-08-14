@@ -1,0 +1,8 @@
+Patient ID;relative date;masking volume;VAS-L;VAS-I;qualite_endormissement;qualite_reveil;forme_veille;heure_mise_au_lit;heure_endormissement;heure_reveil;heure_lever_du_lit
+1MF19;-5;28.0;5;6;Bonne;Comme d'habitude;Normal;23:30:00;23:59:00;06:55:00;07:00:00
+1MF19;-4;25.0;4;5;Comme d'habitude;Bonne;Normal;00:05:00;00:15:00;06:55:00;07:00:00
+1MF19;-3;29.0;6;6;Bonne;Comme d'habitude;Normal;01:15:00;01:30:00;06:50:00;07:00:00
+1MF19;-2;35.666666666666664;7;7;Très mauvaise;Comme d'habitude;Normal;01:00:00;01:00:00;05:00:00;05:00:00
+1MF19;-1;36.0;6;6;Comme d'habitude;Comme d'habitude;Normal;22:00:00;22:05:00;06:00:00;06:00:00
+1MF19;0;24.666666666666668;4;4;Comme d'habitude;Comme d'habitude;Normal;22:05:00;23:10:00;06:15:00;07:05:00
+1MF19;1;26.333333333333332;6;6;Mauvaise;Comme d'habitude;Mauvaise;23:59:00;02:00:00;05:00:00;05:00:00

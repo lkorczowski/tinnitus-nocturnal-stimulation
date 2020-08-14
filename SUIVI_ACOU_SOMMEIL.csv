@@ -1,0 +1,172 @@
+numpatient;heuredemiseaulit;heureendormi;reveil;sortielit;commentqualifiiezvouslaqu;commentqualifieriezvousla;quelleformeaviezvoushierd;avezvousfaitunesiesteaujo;siouipouvezvousnousindiqu;intensitacouphenes;geneacouphenes;id_data;username;identifier;rec_uuid;date_creation;date_modif
+1ZN04;23:30:00;00:15:00;08:15:00;08:30:00;Bonne;Bonne;Très bonne;Non;N;2;1;7;robin.guillard@gmail.com;7;210a3077-dde2-11e9-be9b-2b562de1e2c7;23/09/2019;23/09/2019 11:28
+1ZN04;00:15:00;00:45:00;08:00:00;08:45:00;Bonne;Comme d'habitude;Très bonne;Non;N;3;2;19;guest;19;7b7ffcaf-deaa-11e9-be9b-2b562de1e2c7;24/09/2019;24/09/2019 11:07
+1ZN04;22:45:00;00:45:00;08:30:00;09:10:00;Bonne;Bonne;Bonne;Non;N;3;2;22;guest;22;e0d11706-df0b-11e9-be9b-2b562de1e2c7;24/09/2019;25/09/2019 09:22
+1ZN04;23:20:00;00:20:00;08:30:00;08:55:00;Bonne;Comme d'habitude;Bonne;Non;N;4;3;23;guest;23;60f8a79d-e02a-11e9-be9b-2b562de1e2c7;26/09/2019;26/09/2019 08:54
+1ZN04;23:45:00;00:45:00;08:20:00;09:20:00;Bonne;Mauvaise;Normal;Non;N;5;3;24;guest;24;9e791a99-e0f4-11e9-be9b-2b562de1e2c7;27/09/2019;27/09/2019 09:02
+1ZN04;23:45:00;00:45:00;08:45:00;09:30:00;Très bonne;Très bonne;Normal;Non;N;3;2;25;guest;25;ad808270-e1c7-11e9-be9b-2b562de1e2c7;28/09/2019;28/09/2019 10:13
+1ZN04;03:00:00;03:30:00;10:30:00;12:00:00;Bonne;Bonne;Bonne;Non;N;2;2;26;guest;26;4864e459-e2ab-11e9-be9b-2b562de1e2c7;29/09/2019;29/09/2019 13:22
+1ZN04;00:30:00;00:40:00;09:15:00;09:15:00;Bonne;Mauvaise;Bonne;Non;N;3;3;27;guest;27;626003bd-e35a-11e9-be9b-2b562de1e2c7;30/09/2019;30/09/2019 10:15
+1ZN04;00:30:00;01:30:00;09:00:00;09:30:00;Comme d'habitude;Bonne;Bonne;Non;N;4;2;32;guest;32;7f1db5c5-ecde-11e9-be9b-2b562de1e2c7;12/10/2019;12/10/2019 12:54
+1ZN04;22:00:00;22:30:00;07:30:00;07:35:00;Bonne;Bonne;Bonne;Non;N;3;2;34;guest;34;6c92d9f6-eeb2-11e9-be9b-2b562de1e2c7;14/10/2019;14/10/2019 20:43
+1PT06;21:40:00;23:55:00;06:00:00;06:05:00;Bonne;Comme d'habitude;Bonne;Non;N;8;8;37;guest;37;b15dc56b-ef06-11e9-be9b-2b562de1e2c7;15/10/2019;15/10/2019 06:48
+1CC05;21:35:00;22:45:00;06:20:00;06:30:00;Comme d'habitude;Bonne;Bonne;Oui;14H45/15H45;3;0 (ils ne me dérangent pas du tout);38;guest;38;77b32220-ef07-11e9-be9b-2b562de1e2c7;15/10/2019;15/10/2019 06:54
+1ZN04;22:45:00;23:10:00;07:00:00;07:05:00;Bonne;Bonne;Bonne;Non;N;3;2;39;guest;39;7ce1952f-ef19-11e9-be9b-2b562de1e2c7;15/10/2019;15/10/2019 09:01
+1PT06;22:30:00;00:10:00;06:00:00;06:10:00;Mauvaise;Bonne;Bonne;Non;N;8;8;42;guest;42;4c80adef-efca-11e9-be9b-2b562de1e2c7;16/10/2019;16/10/2019 06:10
+1CC05;22:00:00;22:15:00;06:20:00;06:25:00;Bonne;Bonne;Normal;Non;N;5;2;43;guest;43;65d70465-f014-11e9-be9b-2b562de1e2c7;16/10/2019;16/10/2019 14:58
+1PT06;22:30:00;23:30:00;06:00:00;06:15:00;Bonne;Bonne;Bonne;Non;N;6;7;48;guest;48;2aafac7c-f093-11e9-be9b-2b562de1e2c7;17/10/2019;17/10/2019 06:09
+1CC05;22:00:00;22:40:00;06:50:00;07:00:00;Bonne;Bonne;Normal;Non;N;3;2;49;guest;49;6586a874-f09b-11e9-be9b-2b562de1e2c7;17/10/2019;17/10/2019 07:05
+1PI07;23:25:00;23:45:00;06:43:00;07:35:00;Comme d'habitude;Mauvaise;Mauvaise;Non;N;5;5;50;guest;50;0a9b350d-f0a4-11e9-be9b-2b562de1e2c7;17/10/2019;17/10/2019 08:12
+1ZN04;23:00:00;00:30:00;08:40:00;08:50:00;Bonne;Très bonne;Bonne;Non;N;3;1;51;guest;51;c3cf03c1-f0bc-11e9-be9b-2b562de1e2c7;17/10/2019;17/10/2019 11:03
+1PT06;23:15:00;00:30:00;06:00:00;06:15:00;Mauvaise;Bonne;Bonne;Non;N;5;5;52;guest;52;df1f29e1-f15c-11e9-be9b-2b562de1e2c7;18/10/2019;18/10/2019 06:10
+1CC05;22:00:00;00:00:00;06:40:00;07:00:00;Mauvaise;Mauvaise;Mauvaise;Non;N;3;3;53;guest;53;a1a629f0-f163-11e9-be9b-2b562de1e2c7;18/10/2019;18/10/2019 06:58
+1PI07;23:30:00;01:00:00;06:10:00;07:35:00;Mauvaise;Comme d'habitude;Bonne;Non;N;4;4;54;guest;54;96c8bd87-f16d-11e9-be9b-2b562de1e2c7;18/10/2019;18/10/2019 08:10
+1ZN04;00:00:00;01:30:00;08:40:00;08:50:00;Bonne;Bonne;Très bonne;Non;N;3;2;55;guest;55;2f912f08-f1cd-11e9-be9b-2b562de1e2c7;18/10/2019;18/10/2019 19:33
+1PI07;23:20:00;23:35:00;07:00:00;08:40:00;Bonne;Comme d'habitude;Bonne;Non;N;6;5;56;guest;56;7fd16f99-f23c-11e9-be9b-2b562de1e2c7;19/10/2019;19/10/2019 08:52
+1PT06;22:40:00;23:10:00;08:30:00;08:40:00;Très bonne;Très bonne;Normal;Non;N;7;5;57;guest;57;b1d72e28-f23c-11e9-be9b-2b562de1e2c7;19/10/2019;19/10/2019 08:52
+1CC05;22:30:00;11:00:00;08:20:00;09:15:00;Bonne;Bonne;Mauvaise;Non;N;4;4;58;guest;58;39418efa-f240-11e9-be9b-2b562de1e2c7;19/10/2019;19/10/2019 09:17
+1ZN04;23:30:00;00:30:00;10:30:00;11:30:00;Bonne;Très bonne;Bonne;Non;N;3;2;59;guest;59;2a1bca5b-f258-11e9-be9b-2b562de1e2c7;19/10/2019;19/10/2019 12:07
+1PT06;23:30:00;00:30:00;09:25:00;09:30:00;Bonne;Très bonne;Bonne;Non;N;5;3;61;guest;61;d141d1e9-f30b-11e9-be9b-2b562de1e2c7;20/10/2019;20/10/2019 09:38
+1CC05;23:30:00;23:40:00;08:20:00;09:20:00;Comme d'habitude;Bonne;Bonne;Non;N;4;5;62;guest;62;3b5314c5-f30e-11e9-be9b-2b562de1e2c7;20/10/2019;20/10/2019 09:51
+1PI07;03:30:00;03:40:00;08:40:00;10:10:00;Très bonne;Comme d'habitude;Bonne;Oui;13H15 / 13H30;5;5;63;guest;63;499332ec-f312-11e9-be9b-2b562de1e2c7;20/10/2019;20/10/2019 10:22
+1ZN04;00:30:00;01:30:00;10:30:00;11:30:00;Bonne;Comme d'habitude;Bonne;Non;N;4;3;64;guest;64;7a47de21-f35c-11e9-be9b-2b562de1e2c7;20/10/2019;20/10/2019 19:10
+1PT06;21:45:00;22:35:00;06:00:00;06:15:00;Bonne;Bonne;Normal;Non;N;8;8;67;guest;67;d4f853f2-f3b8-11e9-be9b-2b562de1e2c7;21/10/2019;21/10/2019 06:12
+1CC05;21:45:00;22:20:00;06:40:00;06:50:00;Comme d'habitude;Comme d'habitude;Bonne;Non;N;5;5;68;guest;68;8a511652-f3be-11e9-be9b-2b562de1e2c7;21/10/2019;21/10/2019 06:53
+1PI07;23:01:00;23:05:00;07:20:00;07:35:00;Bonne;Bonne;Bonne;Oui;15H A 16H;3;3;69;guest;69;993ff770-f3c9-11e9-be9b-2b562de1e2c7;21/10/2019;21/10/2019 08:14
+1PT06;22:00:00;22:25:00;06:50:00;07:15:00;Comme d'habitude;Bonne;Bonne;Non;N;6;6;75;guest;75;ebe09e95-f489-11e9-be9b-2b562de1e2c7;22/10/2019;22/10/2019 07:09
+1BA07;10:20:00;10:25:00;05:10:00;07:10:00;Comme d'habitude;Comme d'habitude;Normal;Non;0;3;5;78;guest;78;fe446759-f48a-11e9-be9b-2b562de1e2c7;22/10/2019;22/10/2019 07:22
+1CC05;21:30:00;22:35:00;07:15:00;07:20:00;Mauvaise;Bonne;Bonne;Non;N;5;5;79;guest;79;8def7b3b-f48e-11e9-be9b-2b562de1e2c7;22/10/2019;22/10/2019 07:44
+1PI07;23:25:00;23:50:00;07:20:00;07:45:00;Mauvaise;Comme d'habitude;Normal;Non;N;6;5;80;guest;80;9b9547b1-f493-11e9-be9b-2b562de1e2c7;22/10/2019;22/10/2019 08:20
+1PT06;22:00:00;22:20:00;07:00:00;07:05:00;Bonne;Bonne;Normal;Non;N;6;6;81;guest;81;a2c951ac-f552-11e9-be9b-2b562de1e2c7;23/10/2019;23/10/2019 07:06
+1BA07;11:10:00;11:30:00;06:30:00;07:05:00;Mauvaise;Comme d'habitude;Normal;Non;N;5;3;82;guest;82;9a48f073-f554-11e9-be9b-2b562de1e2c7;23/10/2019;23/10/2019 07:24
+1CC05;21:45:00;22:30:00;06:55:00;07:05:00;Bonne;Bonne;Bonne;Non;N ;3;2;83;guest;83;544b7ce2-f55b-11e9-be9b-2b562de1e2c7;23/10/2019;23/10/2019 08:08
+1PI07;23:15:00;23:45:00;07:20:00;07:35:00;Bonne;Comme d'habitude;Bonne;Non;N;4;3;84;guest;84;276ac40f-f55c-11e9-be9b-2b562de1e2c7;23/10/2019;23/10/2019 08:15
+1PT06;23:10:00;23:30:00;06:00:00;06:10:00;Bonne;Bonne;Normal;Non;N;7;7;85;guest;85;d61fca82-f613-11e9-be9b-2b562de1e2c7;24/10/2019;24/10/2019 06:09
+1CC05;22:15:00;22:45:00;06:35:00;06:45:00;Comme d'habitude;Bonne;Bonne;Non;N;4;3;86;guest;86;432115e9-f619-11e9-be9b-2b562de1e2c7;24/10/2019;24/10/2019 06:48
+1BA07;10:45:00;10:45:00;11:10:00;06:55:00;Comme d'habitude;Comme d'habitude;Normal;Non;N;5;3;87;guest;87;f14e95ff-f621-11e9-be9b-2b562de1e2c7;24/10/2019;24/10/2019 07:51
+1PI07;23:30:00;23:45:00;06:05:00;07:35:00;Comme d'habitude;Comme d'habitude;Normal;Non;N;7;8;88;guest;88;5c164c8f-f624-11e9-be9b-2b562de1e2c7;24/10/2019;24/10/2019 08:08
+1PT06;22:15:00;01:20:00;06:00:00;06:10:00;Très mauvaise;Comme d'habitude;Bonne;Non;N;7;8;90;guest;90;c91b2a10-f6dc-11e9-be9b-2b562de1e2c7;25/10/2019;25/10/2019 06:07
+1CC05;22:05:00;22:30:00;06:40:00;06:50:00;Bonne;Bonne;Bonne;Non;N ;4;4;91;guest;91;764da70d-f6e6-11e9-be9b-2b562de1e2c7;25/10/2019;25/10/2019 07:17
+1BA07;10:10:00;10:30:00;06:00:00;07:10:00;Comme d'habitude;Comme d'habitude;Bonne;Non;N;5;3;92;guest;92;87c3dbbe-f6ec-11e9-be9b-2b562de1e2c7;25/10/2019;25/10/2019 08:00
+1PI07;23:00:00;23:45:00;06:00:00;07:10:00;Comme d'habitude;Comme d'habitude;Bonne;Non;N;3;4;94;guest;94;d68b2898-f6ef-11e9-be9b-2b562de1e2c7;25/10/2019;25/10/2019 08:24
+1BA07;22:50:00;11:15:00;05:20:00;07:10:00;Comme d'habitude;Comme d'habitude;Normal;Non;N;5;3;98;guest;98;73a4bbb9-f7b1-11e9-be9b-2b562de1e2c7;26/10/2019;26/10/2019 07:31
+1PI07;23:00:00;23:45:00;06:00:00;07:00:00;Comme d'habitude;Comme d'habitude;Normal;Oui;De 13 à 14h;5;5;99;guest;99;4a4746f4-f7b4-11e9-be9b-2b562de1e2c7;26/10/2019;26/10/2019 07:50
+1PT06;22:40:00;23:00:00;08:00:00;08:05:00;Comme d'habitude;Comme d'habitude;Normal;Non;N;6;5;100;guest;100;928b0f6a-f7b7-11e9-be9b-2b562de1e2c7;26/10/2019;26/10/2019 08:14
+1CC05;22:20:00;22:45:00;08:20:00;08:50:00;Comme d'habitude;Comme d'habitude;Bonne;Non;N;6;5;101;guest;101;2b563b19-f7bd-11e9-be9b-2b562de1e2c7;26/10/2019;26/10/2019 08:54
+1BA07;22:40:00;11:00:00;06:10:00;07:00:00;Mauvaise;Mauvaise;Normal;Non;N;5;3;105;guest;105;7a10d105-f882-11e9-be9b-2b562de1e2c7;27/10/2019;27/10/2019 07:27
+1PT06;22:50:00;23:20:00;07:45:00;07:58:00;Bonne;Bonne;Bonne;Non;N;5;3;106;guest;106;aabc5825-f886-11e9-be9b-2b562de1e2c7;27/10/2019;27/10/2019 07:56
+1CC05;23:50:00;00:00:00;09:40:00;09:50:00;Comme d'habitude;Comme d'habitude;Normal;Non;N ;5;5;107;guest;107;8c0b8730-f890-11e9-be9b-2b562de1e2c7;27/10/2019;27/10/2019 09:07
+1PI07;00:00:00;00:30:00;08:30:00;08:55:00;Bonne;Comme d'habitude;Normal;Non;N;7;7;109;guest;109;7b6a0a77-f896-11e9-be9b-2b562de1e2c7;27/10/2019;27/10/2019 09:50
+1BA07;22:45:00;23:10:00;06:10:00;07:10:00;Comme d'habitude;Comme d'habitude;Mauvaise;Non;N;5;3;110;guest;110;7536d181-f94c-11e9-be9b-2b562de1e2c7;28/10/2019;28/10/2019 07:34
+1PT06;23:30:00;23:45:00;07:10:00;07:35:00;Bonne;Bonne;Bonne;ne sait pas;N;1;0 (ils ne me dérangent pas du tout);111;guest;111;a4018e15-f94d-11e9-be9b-2b562de1e2c7;28/10/2019;28/10/2019 07:40
+1PI07;23:55:00;00:00:00;06:00:00;07:30:00;Bonne;Mauvaise;Normal;Non;N;7;6;112;guest;112;a56b9d0f-f950-11e9-be9b-2b562de1e2c7;28/10/2019;28/10/2019 08:02
+1CC05;23:30:00;00:00:00;08:20:00;08:45:00;Comme d'habitude;Mauvaise;Normal;Non;N;5;6;114;guest;114;4b08e317-f959-11e9-be9b-2b562de1e2c7;28/10/2019;28/10/2019 09:03
+1CC05;22:20:00;23:00:00;06:40:00;06:45:00;Mauvaise;Comme d'habitude;Bonne;Non;N ;7;7;115;guest;115;5fb9bfff-fa0f-11e9-be9b-2b562de1e2c7;29/10/2019;29/10/2019 06:47
+1PT06;22:30:00;23:15:00;06:25:00;06:35:00;Comme d'habitude;Bonne;Bonne;Non;N;1;0 (ils ne me dérangent pas du tout);116;guest;116;62bcfbdf-fa10-11e9-be9b-2b562de1e2c7;29/10/2019;29/10/2019 06:54
+1PI07;11:00:00;11:30:00;07:00:00;07:45:00;Comme d'habitude;Comme d'habitude;Bonne;Non;N;5;5;117;guest;117;4bb7051e-fa1b-11e9-be9b-2b562de1e2c7;29/10/2019;29/10/2019 08:13
+1BA07;20:00:00;20:45:00;05:10:00;07:10:00;Comme d'habitude;Mauvaise;Normal;Non;N;5;3;118;guest;118;28619111-fa1e-11e9-be9b-2b562de1e2c7;29/10/2019;29/10/2019 08:34
+1MN09;22:30:00;23:40:00;07:20:00;07:20:00;Comme d'habitude;Comme d'habitude;Mauvaise;Non;N;7;6;121;guest;121;9bafe191-fa8a-11e9-be9b-2b562de1e2c7;29/10/2019;30/10/2019 07:44
+1BA07;22:30:00;00:00:00;06:00:00;06:10:00;Bonne;Bonne;Bonne;Non;N;1;0 (ils ne me dérangent pas du tout);132;robin.guillard@gmail.com;132;e460350b-fbce-11e9-be9b-2b562de1e2c7;30/10/2019;31/10/2019 12:10
+1PT06;22:40:00;23:00:00;06:00:00;06:30:00;Comme d'habitude;Comme d'habitude;Bonne;Non;N;6;5;124;guest;124;72a9c021-fada-11e9-be9b-2b562de1e2c7;30/10/2019;30/10/2019 07:00
+1PI07;11:00:00;11:15:00;07:00:00;07:35:00;Comme d'habitude;Comme d'habitude;Normal;Non;N;7;7;125;guest;125;de02cb35-fae5-11e9-be9b-2b562de1e2c7;30/10/2019;30/10/2019 08:22
+1BA07;22:10:00;22:30:00;05:20:00;07:05:00;Comme d'habitude;Comme d'habitude;Bonne;Non;N;5;3;128;guest;128;2619d5dc-fbac-11e9-be9b-2b562de1e2c7;31/10/2019;31/10/2019 08:02
+1PI07;23:00:00;00:30:00;07:00:00;07:35:00;Mauvaise;Comme d'habitude;Mauvaise;Non;N;7;8;129;guest;129;c2b59775-fbad-11e9-be9b-2b562de1e2c7;31/10/2019;31/10/2019 08:13
+1MN09;22:30:00;23:10:00;08:30:00;08:30:00;Bonne;Bonne;Bonne;Non;N;6;6;130;guest;130;9a76ad79-fbb2-11e9-be9b-2b562de1e2c7;31/10/2019;31/10/2019 08:48
+1BA07;21:50:00;22:15:00;06:30:00;08:00:00;Comme d'habitude;Comme d'habitude;Mauvaise;Non;N;5;2;135;guest;135;c880fc53-fc79-11e9-be9b-2b562de1e2c7;01/11/2019;01/11/2019 08:57
+1PI07;11:00:00;11:45:00;07:00:00;08:30:00;Comme d'habitude;Comme d'habitude;Normal;Non;N;7;6;136;guest;136;509617a5-fc7f-11e9-be9b-2b562de1e2c7;01/11/2019;01/11/2019 09:13
+1BA07;23:00:00;23:20:00;06:15:00;07:15:00;Comme d'habitude;Comme d'habitude;Normal;Non;No;5;2;138;guest;138;abf2a16f-fd40-11e9-be9b-2b562de1e2c7;02/11/2019;02/11/2019 08:21
+1BA07;23:00:00;23:20:00;06:10:00;07:15:00;Comme d'habitude;Comme d'habitude;Normal;Non;N;5;3;141;guest;141;85f699a6-fe04-11e9-be9b-2b562de1e2c7;03/11/2019;03/11/2019 07:41
+1MN09;23:30:00;00:00:00;08:00:00;08:15:00;Bonne;Bonne;Bonne;Non;N;6;6;142;guest;142;2f3f81e4-fe09-11e9-be9b-2b562de1e2c7;03/11/2019;03/11/2019 08:13
+1MN09;22:45:00;00:00:00;06:57:00;07:00:00;Comme d'habitude;Mauvaise;Bonne;Non;N;7;7;144;guest;144;33733a02-fe82-11e9-be9b-2b562de1e2c7;03/11/2019;04/11/2019 07:14
+1MN09;22:55:00;01:00:00;04:35:00;07:05:00;Mauvaise;Mauvaise;Mauvaise;Non;N;8;8;148;guest;148;d398dd1f-ff93-11e9-be9b-2b562de1e2c7;05/11/2019;05/11/2019 07:19
+1BA07;23:00:00;23:30:00;05:40:00;07:05:00;Comme d'habitude;Mauvaise;Normal;Non;N;5;3;149;guest;149;8bc834f4-ffa1-11e9-be9b-2b562de1e2c7;05/11/2019;05/11/2019 08:56
+1MN09;21:00:00;22:30:00;06:50:00;07:00:00;Bonne;Bonne;Bonne;Non;N;5;5;150;guest;150;2fa643dc-005b-11ea-be9b-2b562de1e2c7;06/11/2019;06/11/2019 07:05
+1BA07;22:45:00;23:10:00;05:15:00;07:15:00;Comme d'habitude;Comme d'habitude;Bonne;Non;N;4;2;151;guest;151;610696ce-0063-11ea-be9b-2b562de1e2c7;06/11/2019;06/11/2019 08:04
+1MN09;21:40:00;22:15:00;06:30:00;06:45:00;Bonne;Bonne;Bonne;Non;N;6;6;155;guest;155;d29c6f94-0121-11ea-be9b-2b562de1e2c7;07/11/2019;07/11/2019 06:46
+1MN09;21:30:00;22:50:00;06:00:00;07:00:00;Bonne;Bonne;Bonne;Non;N;5;5;156;guest;156;0bb6feb2-01ed-11ea-be9b-2b562de1e2c7;08/11/2019;08/11/2019 07:01
+1MN09;23:00:00;23:30:00;05:20:00;06:00:00;Bonne;Mauvaise;Bonne;Oui;14h30 /15h ;6;6;160;guest;160;7408b161-02bc-11ea-be9b-2b562de1e2c7;09/11/2019;09/11/2019 07:47
+1MN09;22:18:00;23:00:00;07:20:00;07:20:00;Bonne;Bonne;Normal;Non;N;6;6;161;guest;161;bf3acced-0383-11ea-be9b-2b562de1e2c7;10/11/2019;10/11/2019 07:33
+1MN09;00:36:00;01:10:00;08:00:00;08:11:00;Comme d'habitude;Bonne;Bonne;Non;N;7;6;163;guest;163;6e2945f4-0452-11ea-be9b-2b562de1e2c7;11/11/2019;11/11/2019 08:13
+1MN09;21:50:00;23:40:00;05:50:00;07:00:00;Bonne;Mauvaise;Bonne;Non;N;7;7;165;guest;165;80786e0a-0516-11ea-be9b-2b562de1e2c7;12/11/2019;12/11/2019 07:36
+1DL12;23:00:00;23:10:00;07:00:00;07:20:00;Bonne;Comme d'habitude;Bonne;Oui;16.00;6;5;166;guest;166;58eda32a-051f-11ea-be9b-2b562de1e2c7;12/11/2019;12/11/2019 08:41
+1GF14;10:53:00;11:08:00;07:00:00;07:25:00;Mauvaise;Très bonne;Très bonne;Non;N;8;5;169;guest;169;06e9bc8c-05df-11ea-be9b-2b562de1e2c7;13/11/2019;13/11/2019 07:38
+1MN09;23:20:00;00:20:00;05:15:00;07:00:00;Comme d'habitude;Mauvaise;Normal;Non;N;7;7;170;guest;170;158cb2b2-05f1-11ea-be9b-2b562de1e2c7;13/11/2019;13/11/2019 09:40
+1DL12;22:30:00;23:00:00;07:00:00;07:20:00;Bonne;Bonne;Normal;Oui;15.00;6;6;171;guest;171;d4e26468-05f1-11ea-be9b-2b562de1e2c7;13/11/2019;13/11/2019 09:46
+1GF14;22:43:00;22:53:00;07:30:00;08:00:00;Très bonne;Très bonne;Très bonne;Non;N;8;5;172;guest;172;28a3dfce-06ad-11ea-be9b-2b562de1e2c7;14/11/2019;14/11/2019 08:12
+1DL12;21:30:00;22:45:00;08:00:00;08:10:00;Bonne;Comme d'habitude;Bonne;Non;N;5;5;173;guest;173;167bb943-06b4-11ea-be9b-2b562de1e2c7;14/11/2019;14/11/2019 08:56
+1GF14;22:30:00;23:00:00;07:00:00;07:08:00;Très bonne;Bonne;Très bonne;Oui;13:30 à 14:30;8;7;174;guest;174;f3184d07-076e-11ea-be9b-2b562de1e2c7;15/11/2019;15/11/2019 07:16
+1DL12;22:30:00;22:45:00;06:45:00;06:50:00;Bonne;Bonne;Bonne;Oui;15.00 a 16.00;2;2;175;guest;175;1318f4f4-077f-11ea-be9b-2b562de1e2c7;15/11/2019;15/11/2019 09:09
+1GF14;23:35:00;23:47:00;06:55:00;07:00:00;Très bonne;Très bonne;Très bonne;Non;N;8;7;180;guest;180;a0f393ae-0837-11ea-be9b-2b562de1e2c7;16/11/2019;16/11/2019 07:12
+1SA14;22:00:00;22:40:00;07:30:00;08:00:00;Bonne;Bonne;Bonne;Non;N;5;4;181;guest;181;8f90efa7-0851-11ea-be9b-2b562de1e2c7;16/11/2019;16/11/2019 10:17
+1DL12;01:00:00;01:20:00;11:00:00;11:20:00;Très bonne;Bonne;Bonne;Oui;1800 a 19.30;2;2;182;guest;182;89ea1718-085f-11ea-be9b-2b562de1e2c7;16/11/2019;16/11/2019 11:56
+1GF14;22:32:00;22:45:00;04:04:00;04:08:00;Très bonne;Très bonne;Très bonne;Oui;17:30 à 18:30;7;8;183;guest;183;23beec2e-08e8-11ea-be9b-2b562de1e2c7;17/11/2019;17/11/2019 04:16
+1SA14;22:30:00;23:30:00;09:00:00;09:45:00;Bonne;Mauvaise;Normal;Non;N;6;6;184;guest;184;f5b7f057-0918-11ea-be9b-2b562de1e2c7;17/11/2019;17/11/2019 10:04
+1DL12;23:00:00;23:30:00;10:00:00;10:15:00;Bonne;Bonne;Bonne;Oui;15.00 16.00;5;5;185;guest;185;3f2b16e7-093a-11ea-be9b-2b562de1e2c7;17/11/2019;17/11/2019 14:01
+1GF14;22:00:00;22:12:00;07:00:00;07:12:00;Très bonne;Très bonne;Très bonne;Non;N;8;6;186;guest;186;a8e153ff-09cb-11ea-be9b-2b562de1e2c7;18/11/2019;18/11/2019 07:23
+1DL12;08:00:00;08:20:00;12:00:00;12:00:00;Bonne;Mauvaise;Bonne;Non;N;4;3;187;guest;187;fa452d9d-0a17-11ea-be9b-2b562de1e2c7;18/11/2019;18/11/2019 16:29
+1GF14;23:20:00;23:29:00;07:00:00;07:15:00;Très bonne;Très bonne;Très bonne;Non;N;8;6;188;guest;188;096a1e85-0a94-11ea-be9b-2b562de1e2c7;19/11/2019;19/11/2019 07:18
+1SA14;22:30:00;23:30:00;08:00:00;08:40:00;Comme d'habitude;Bonne;Bonne;Non;N;4;4;189;guest;189;d8d907ea-0aa0-11ea-be9b-2b562de1e2c7;19/11/2019;19/11/2019 08:49
+1DL12;22:00:00;22:10:00;07:30:00;07:45:00;Bonne;Mauvaise;Normal;Non;N;6;6;190;guest;190;3e5198b0-0b16-11ea-be9b-2b562de1e2c7;19/11/2019;19/11/2019 22:49
+1SA14;21:00:00;22:30:00;06:55:00;07:10:00;Mauvaise;Mauvaise;Bonne;Non;N;5;4;191;guest;191;3e504247-0b5c-11ea-be9b-2b562de1e2c7;20/11/2019;20/11/2019 07:10
+1GF14;20:30:00;21:00:00;06:23:00;07:11:00;Très bonne;Très bonne;Très bonne;Non;N;8;5;192;robin.guillard@gmail.com;192;3b117424-0b5d-11ea-be9b-2b562de1e2c7;20/11/2019;20/11/2019 07:22
+1SA14;21:00:00;23:00:00;07:00:00;07:20:00;Mauvaise;Bonne;Normal;Non;N;4;4;196;guest;196;8986caea-0c2b-11ea-be9b-2b562de1e2c7;21/11/2019;21/11/2019 07:54
+1GF14;22:30:00;22:45:00;06:45:00;07:05:00;Très bonne;Mauvaise;Très bonne;Non;N;8;8;197;guest;197;7b1876d4-0c2d-11ea-be9b-2b562de1e2c7;21/11/2019;21/11/2019 08:16
+1DA15;00:45:00;00:50:00;08:00:00;08:10:00;Très bonne;Très bonne;Bonne;Non;0;5;4;198;guest;198;ffb3f14f-0c30-11ea-be9b-2b562de1e2c7;21/11/2019;21/11/2019 08:35
+1DL12;23:00:00;23:10:00;07:20:00;07:30:00;Bonne;Comme d'habitude;Bonne;Non;N;4;5;199;guest;199;d489c301-0ca0-11ea-be9b-2b562de1e2c7;21/11/2019;21/11/2019 21:54
+1GF14;23:30:00;23:45:00;06:05:00;06:15:00;Très bonne;Mauvaise;Très bonne;Non;N;8;7;201;guest;201;7ae0608c-0ce7-11ea-be9b-2b562de1e2c7;22/11/2019;22/11/2019 06:20
+1GF14;23:30:00;23:45:00;06:30:00;07:15:00;Très bonne;Mauvaise;Très bonne;Non;N;9;7;202;guest;202;4539d931-0dbb-11ea-be9b-2b562de1e2c7;23/11/2019;23/11/2019 07:36
+1SA14;22:30:00;23:30:00;09:00:00;09:30:00;Bonne;Bonne;Normal;Non;N;6;5;204;guest;204;7ec4c46a-0dcd-11ea-be9b-2b562de1e2c7;23/11/2019;23/11/2019 09:45
+1DA15;12:15:00;12:20:00;09:30:00;10:00:00;Très bonne;Très bonne;Bonne;Non;0;5;4;205;guest;205;1a82609b-0ddc-11ea-be9b-2b562de1e2c7;23/11/2019;23/11/2019 11:31
+1DL12;21:30:00;22:00:00;08:30:00;09:00:00;Bonne;Bonne;Bonne;Non;N;4;4;206;guest;206;8bf1fb09-0e03-11ea-be9b-2b562de1e2c7;23/11/2019;23/11/2019 16:12
+1GF14;22:55:00;23:15:00;07:00:00;07:10:00;Très bonne;Mauvaise;Très bonne;Non;N;9;9;207;guest;207;1e998115-0e81-11ea-be9b-2b562de1e2c7;24/11/2019;24/11/2019 07:12
+1DA15;01:15:00;01:20:00;10:00:00;10:30:00;Très bonne;Très bonne;Bonne;Non;0;5;4;208;guest;208;59ea69ce-0ea9-11ea-be9b-2b562de1e2c7;24/11/2019;24/11/2019 12:00
+1GF14;22:55:00;23:15:00;07:00:00;07:15:00;Très bonne;Très bonne;Très bonne;Non;N;8;7;211;guest;211;d6da8f70-0f4b-11ea-be9b-2b562de1e2c7;25/11/2019;25/11/2019 07:23
+1DL12;23:30:00;23:40:00;07:00:00;07:10:00;Bonne;Bonne;Mauvaise;Oui;15.00 a 17.00;5;5;212;guest;212;cd2ed8da-0f55-11ea-be9b-2b562de1e2c7;25/11/2019;25/11/2019 08:34
+1DA15;11:45:00;11:55:00;07:45:00;08:15:00;Bonne;Bonne;Bonne;Non;0;5;4;213;guest;213;019331ca-0f5b-11ea-be9b-2b562de1e2c7;25/11/2019;25/11/2019 09:11
+1SA14;22:30:00;23:00:00;09:00:00;09:30:00;Bonne;Bonne;Bonne;Non;N;4;3;214;guest;214;cf91a0ba-0f5f-11ea-be9b-2b562de1e2c7;25/11/2019;25/11/2019 09:45
+1GF14;22:35:00;22:55:00;07:00:00;07:10:00;Très bonne;Très bonne;Très bonne;Non;N;8;7;217;guest;217;75752a8d-1013-11ea-be9b-2b562de1e2c7;26/11/2019;26/11/2019 07:12
+1DA15;12:30:00;13:00:00;08:30:00;08:35:00;Bonne;Bonne;Bonne;Non;0;5;4;218;guest;218;5058a849-1026-11ea-be9b-2b562de1e2c7;26/11/2019;26/11/2019 09:27
+1MA16;00:15:00;00:25:00;06:35:00;06:35:00;Bonne;Très bonne;Bonne;Non;N;2;0 (ils ne me dérangent pas du tout);219;guest;219;d45eb702-1026-11ea-be9b-2b562de1e2c7;26/11/2019;26/11/2019 09:31
+1GF14;23:05:00;23:25:00;06:30:00;06:45:00;Très bonne;Très bonne;Très bonne;Non;N;8;7;221;guest;221;7ff4b2de-10da-11ea-be9b-2b562de1e2c7;27/11/2019;27/11/2019 06:57
+1DA15;11:00:00;11:10:00;07:45:00;07:50:00;Très bonne;Très bonne;Bonne;Non;0;5;4;222;guest;222;b3b96dd8-10e9-11ea-be9b-2b562de1e2c7;27/11/2019;27/11/2019 08:45
+1GF14;22:45:00;23:05:00;06:45:00;07:07:00;Très bonne;Très bonne;Très bonne;Non;N;8;7;223;guest;223;798a3996-11a5-11ea-be9b-2b562de1e2c7;28/11/2019;28/11/2019 07:09
+1DA15;10:30:00;10:45:00;07:15:00;07:15:00;Bonne;Bonne;Bonne;Non;0;5;4;224;guest;224;f7321059-11ab-11ea-be9b-2b562de1e2c7;28/11/2019;28/11/2019 08:01
+1DA15;10:00:00;10:05:00;07:10:00;07:15:00;Très bonne;Bonne;Bonne;Non;0;4;4;227;robin.guillard@gmail.com;227;6b09e2fb-1276-11ea-be9b-2b562de1e2c7;29/11/2019;29/11/2019 08:06
+1MA16;01:15:00;01:20:00;06:15:00;06:15:00;Très bonne;Très bonne;Bonne;Non;N;4;1;229;guest;229;64710446-127f-11ea-be9b-2b562de1e2c7;29/11/2019;29/11/2019 09:40
+1MA16;01:15:00;01:20:00;07:00:00;07:00:00;Très bonne;Très bonne;Très bonne;Non;n;3;3;230;guest;230;56d1bc07-134e-11ea-be9b-2b562de1e2c7;30/11/2019;30/11/2019 09:50
+1DA15;23:30:00;23:45:00;10:30:00;11:00:00;Très bonne;Très bonne;Bonne;Non;0;5;4;231;guest;231;394319a4-137a-11ea-be9b-2b562de1e2c7;30/11/2019;30/11/2019 15:04
+1MA16;01:35:00;01:40:00;07:35:00;07:35:00;Très bonne;Très bonne;Très bonne;Oui;N;2;3;232;guest;232;62abcbd6-1419-11ea-be9b-2b562de1e2c7;01/12/2019;01/12/2019 10:03
+1RA17;00:30:00;00:40:00;09:00:00;09:15:00;Bonne;Mauvaise;Bonne;Non;N;3;2;234;guest;234;e55742a8-1466-11ea-be9b-2b562de1e2c7;01/12/2019;01/12/2019 19:19
+1RA17;23:45:00;00:00:00;06:30:00;07:10:00;Bonne;Comme d'habitude;Bonne;Non;N - vendredi;1;2;235;guest;235;6cda8597-1467-11ea-be9b-2b562de1e2c7;29/11/2019;01/12/2019 19:23
+1RA17;00:30:00;00:30:00;06:00:00;06:00:00;Bonne;Mauvaise;Normal;Non;N - jeudi;1;2;236;guest;236;a620aea8-1467-11ea-be9b-2b562de1e2c7;28/11/2019;01/12/2019 19:24
+1RA17;00:10:00;00:10:00;06:45:00;07:00:00;Bonne;Mauvaise;Normal;Non;N - mercredi;1;2;237;guest;237;d7bb7ecf-1467-11ea-be9b-2b562de1e2c7;27/11/2019;01/12/2019 19:26
+1MA16;00:45:00;00:55:00;06:35:00;06:35:00;Bonne;Très bonne;Bonne;Non;N;2;2;240;guest;240;7e976011-14ce-11ea-be9b-2b562de1e2c7;02/12/2019;02/12/2019 07:40
+1RA17;23:50:00;00:10:00;05:00:00;06:30:00;Bonne;Mauvaise;Normal;Non;N - lundi;3;3;241;guest;241;02a30aad-14d3-11ea-be9b-2b562de1e2c7;02/12/2019;02/12/2019 08:12
+1DA15;23:00:00;23:30:00;07:30:00;08:00:00;Très bonne;Bonne;Bonne;Non;0;5;4;242;guest;242;17470048-14dd-11ea-be9b-2b562de1e2c7;02/12/2019;02/12/2019 09:25
+1RA17;23:40:00;23:50:00;06:30:00;07:10:00;Bonne;Mauvaise;Normal;Non;N;3;3;244;guest;244;5c852bdf-159c-11ea-be9b-2b562de1e2c7;03/12/2019;03/12/2019 08:14
+1MA16;00:10:00;03:00:00;06:45:00;06:45:00;Comme d'habitude;Mauvaise;Bonne;ne sait pas;n;2;2;245;guest;245;f9e2fa87-159c-11ea-be9b-2b562de1e2c7;03/12/2019;03/12/2019 08:18
+1DA15;00:10:00;00:30:00;08:00:00;08:30:00;Bonne;Bonne;Normal;Non;0;4;4;246;guest;246;1003dad1-15a8-11ea-be9b-2b562de1e2c7;03/12/2019;03/12/2019 09:38
+1GB18;22:55:00;23:30:00;06:10:00;06:35:00;Comme d'habitude;Comme d'habitude;Bonne;Non;N;5;6;249;guest;249;735508a8-15fb-11ea-be9b-2b562de1e2c7;03/12/2019;04/12/2019 06:46
+1MA16;00:00:00;01:00:00;06:10:00;06:15:00;Bonne;Très bonne;Mauvaise;Oui;11h-13h;2;2;250;guest;250;4e87968e-1660-11ea-be9b-2b562de1e2c7;04/12/2019;04/12/2019 07:37
+1RA17;23:40:00;00:00:00;06:30:00;07:10:00;Bonne;Mauvaise;Bonne;Non;N;3;3;251;guest;251;fd689575-1663-11ea-be9b-2b562de1e2c7;04/12/2019;04/12/2019 08:04
+1DA15;00:55:00;01:00:00;09:00:00;09:30:00;Très bonne;Très bonne;Bonne;Non;0;4;4;252;guest;252;d036fabb-1675-11ea-be9b-2b562de1e2c7;04/12/2019;04/12/2019 10:10
+1GB18;23:50:00;00:10:00;05:50:00;06:05:00;Bonne;Comme d'habitude;Normal;Oui;13h05 - 13h20;5;5;253;guest;253;06ae3393-171e-11ea-be9b-2b562de1e2c7;05/12/2019;05/12/2019 06:17
+1MA16;00:30:00;00:30:00;07:00:00;07:00:00;Très bonne;Très bonne;Très bonne;Non;N;1;2;254;guest;254;17b1f70b-1735-11ea-be9b-2b562de1e2c7;05/12/2019;05/12/2019 09:00
+1DA15;11:45:00;11:50:00;08:30:00;09:00:00;Très bonne;Très bonne;Bonne;Non;0;5;4;255;guest;255;07d286de-1742-11ea-be9b-2b562de1e2c7;05/12/2019;05/12/2019 10:32
+1GB18;22:15:00;23:00:00;06:15:00;06:40:00;Bonne;Comme d'habitude;Bonne;Oui;13h05 - 13h25;5;4;259;guest;259;9f25bab7-17f1-11ea-be9b-2b562de1e2c7;06/12/2019;06/12/2019 07:30
+1MF19;23:30:00;23:59:00;06:55:00;07:00:00;Bonne;Comme d'habitude;Normal;Non;N;5;6;260;guest;260;e2ee3668-17fa-11ea-be9b-2b562de1e2c7;06/12/2019;06/12/2019 08:37
+1GB18;22:50:00;23:50:00;05:50:00;06:15:00;Bonne;Bonne;Normal;Oui;13h35 - 13h55;5;5;261;guest;261;8f56e461-18b1-11ea-be9b-2b562de1e2c7;07/12/2019;07/12/2019 06:24
+1MF19;00:05:00;00:15:00;06:55:00;07:00:00;Comme d'habitude;Bonne;Normal;Non;N;4;5;262;guest;262;c7be6378-18c5-11ea-be9b-2b562de1e2c7;07/12/2019;07/12/2019 08:50
+1GB18;21:00:00;22:00:00;04:00:00;08:00:00;Bonne;Mauvaise;Bonne;Non;N;5;6;263;guest;263;202ce077-198c-11ea-be9b-2b562de1e2c7;08/12/2019;08/12/2019 08:31
+1MF19;01:15:00;01:30:00;06:50:00;07:00:00;Bonne;Comme d'habitude;Normal;Non;N;6;6;264;guest;264;c68d1cb4-198d-11ea-be9b-2b562de1e2c7;08/12/2019;08/12/2019 08:41
+1RA17;00:20:00;00:30:00;09:00:00;09:30:00;Comme d'habitude;Mauvaise;Normal;Non;N;2;2;265;guest;265;df64647f-19b8-11ea-be9b-2b562de1e2c7;08/12/2019;08/12/2019 13:48
+1GB18;22:15:00;23:30:00;04:45:00;04:50:00;Comme d'habitude;Mauvaise;Normal;Non;N;5;5;266;guest;266;6cc3982c-1a39-11ea-be9b-2b562de1e2c7;09/12/2019;09/12/2019 05:10
+1MF19;01:00:00;01:00:00;05:00:00;05:00:00;Très mauvaise;Comme d'habitude;Normal;Non;N;7;7;267;guest;267;b1d0148b-1a61-11ea-be9b-2b562de1e2c7;09/12/2019;09/12/2019 10:00
+1MA16;00:30:00;00:35:00;07:00:00;07:00:00;Très bonne;Très bonne;Très bonne;Non;n;3;1;268;guest;268;ab91c8c8-1a63-11ea-be9b-2b562de1e2c7;09/12/2019;09/12/2019 10:10
+1RA17;23:50:00;23:55:00;04:45:00;05:00:00;Bonne;Bonne;Normal;Non;N;2;2;270;guest;270;8064c231-1ada-11ea-be9b-2b562de1e2c7;10/12/2019;10/12/2019 00:22
+1GB18;21:00:00;21:30:00;05:00:00;06:00:00;Bonne;Comme d'habitude;Normal;Non;N;5;4;271;guest;271;a391558e-1b0b-11ea-be9b-2b562de1e2c7;10/12/2019;10/12/2019 06:14
+1MF19;22:00:00;22:05:00;06:00:00;06:00:00;Comme d'habitude;Comme d'habitude;Normal;Non;N;6;6;272;guest;272;c9bf17eb-1b28-11ea-be9b-2b562de1e2c7;10/12/2019;10/12/2019 09:42
+1GB18;22:00:00;22:40:00;06:00:00;06:20:00;Bonne;Bonne;Normal;Non;N;5;5;273;guest;273;a02029af-1bd6-11ea-be9b-2b562de1e2c7;11/12/2019;11/12/2019 06:27
+1MF19;22:05:00;23:10:00;06:15:00;07:05:00;Comme d'habitude;Comme d'habitude;Normal;Non;N;4;4;274;guest;274;117c92f5-1be7-11ea-be9b-2b562de1e2c7;11/12/2019;11/12/2019 08:27
+1GB18;22:15:00;23:15:00;06:30:00;07:30:00;Bonne;Bonne;Normal;Non;N;5;4;276;guest;276;a1e7a7db-1cac-11ea-be9b-2b562de1e2c7;12/12/2019;12/12/2019 07:58
+1MF19;23:59:00;02:00:00;05:00:00;05:00:00;Mauvaise;Comme d'habitude;Mauvaise;Oui;15 h 15h30;6;6;277;guest;277;d1fe17e9-1cb7-11ea-be9b-2b562de1e2c7;12/12/2019;12/12/2019 09:19

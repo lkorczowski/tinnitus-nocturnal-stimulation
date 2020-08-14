@@ -1,0 +1,8 @@
+Patient ID;relative date;masking volume;VAS-L;VAS-I;qualite_endormissement;qualite_reveil;forme_veille;heure_mise_au_lit;heure_endormissement;heure_reveil;heure_lever_du_lit
+1RA17;-3;5.0;3;2;Bonne;Mauvaise;Bonne;00:30:00;00:40:00;09:00:00;09:15:00
+1RA17;-5;4.0;1;2;Bonne;Comme d'habitude;Bonne;23:45:00;00:00:00;06:30:00;07:10:00
+1RA17;-7;4.0;1;2;Bonne;Mauvaise;Normal;00:10:00;00:10:00;06:45:00;07:00:00
+1RA17;-2;4.666666666666667;3;3;Bonne;Mauvaise;Normal;23:50:00;00:10:00;05:00:00;06:30:00
+1RA17;-1;5.0;3;3;Bonne;Mauvaise;Normal;23:40:00;23:50:00;06:30:00;07:10:00
+1RA17;0;3.3333333333333335;3;3;Bonne;Mauvaise;Bonne;23:40:00;00:00:00;06:30:00;07:10:00
+1RA17;4;3.3333333333333335;2;2;Comme d'habitude;Mauvaise;Normal;00:20:00;00:30:00;09:00:00;09:30:00

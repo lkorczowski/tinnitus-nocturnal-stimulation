@@ -1,0 +1,13 @@
+Patient ID;relative date;masking volume;VAS-L;VAS-I;qualite_endormissement;qualite_reveil;forme_veille;heure_mise_au_lit;heure_endormissement;heure_reveil;heure_lever_du_lit
+1MN09;-7;59.666666666666664;6;6;Bonne;Bonne;Bonne;22:30:00;23:10:00;08:30:00;08:30:00
+1MN09;-4;60.0;6;6;Bonne;Bonne;Bonne;23:30:00;00:00:00;08:00:00;08:15:00
+1MN09;-4;60.0;7;7;Comme d'habitude;Mauvaise;Bonne;22:45:00;00:00:00;06:57:00;07:00:00
+1MN09;-2;68.33333333333333;8;8;Mauvaise;Mauvaise;Mauvaise;22:55:00;01:00:00;04:35:00;07:05:00
+1MN09;-1;57.666666666666664;5;5;Bonne;Bonne;Bonne;21:00:00;22:30:00;06:50:00;07:00:00
+1MN09;0;68.33333333333333;6;6;Bonne;Bonne;Bonne;21:40:00;22:15:00;06:30:00;06:45:00
+1MN09;1;60.666666666666664;5;5;Bonne;Bonne;Bonne;21:30:00;22:50:00;06:00:00;07:00:00
+1MN09;2;61.333333333333336;6;6;Bonne;Mauvaise;Bonne;23:00:00;23:30:00;05:20:00;06:00:00
+1MN09;3;64.66666666666667;6;6;Bonne;Bonne;Normal;22:18:00;23:00:00;07:20:00;07:20:00
+1MN09;4;61.0;7;6;Comme d'habitude;Bonne;Bonne;00:36:00;01:10:00;08:00:00;08:11:00
+1MN09;5;63.666666666666664;7;7;Bonne;Mauvaise;Bonne;21:50:00;23:40:00;05:50:00;07:00:00
+1MN09;6;60.0;7;7;Comme d'habitude;Mauvaise;Normal;23:20:00;00:20:00;05:15:00;07:00:00

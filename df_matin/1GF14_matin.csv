@@ -1,0 +1,17 @@
+Patient ID;relative date;masking volume;VAS-L;VAS-I;qualite_endormissement;qualite_reveil;forme_veille;heure_mise_au_lit;heure_endormissement;heure_reveil;heure_lever_du_lit
+1GF14;-8;36.666666666666664;8;5;Mauvaise;Très bonne;Très bonne;10:53:00;11:08:00;07:00:00;07:25:00
+1GF14;-7;52.333333333333336;8;5;Très bonne;Très bonne;Très bonne;22:43:00;22:53:00;07:30:00;08:00:00
+1GF14;-6;56.333333333333336;8;7;Très bonne;Bonne;Très bonne;22:30:00;23:00:00;07:00:00;07:08:00
+1GF14;-5;55.0;8;7;Très bonne;Très bonne;Très bonne;23:35:00;23:47:00;06:55:00;07:00:00
+1GF14;-4;71.33333333333333;7;8;Très bonne;Très bonne;Très bonne;22:32:00;22:45:00;04:04:00;04:08:00
+1GF14;-3;64.66666666666667;8;6;Très bonne;Très bonne;Très bonne;22:00:00;22:12:00;07:00:00;07:12:00
+1GF14;-2;74.0;8;6;Très bonne;Très bonne;Très bonne;23:20:00;23:29:00;07:00:00;07:15:00
+1GF14;-1;64.0;8;5;Très bonne;Très bonne;Très bonne;20:30:00;21:00:00;06:23:00;07:11:00
+1GF14;0;54.0;8;8;Très bonne;Mauvaise;Très bonne;22:30:00;22:45:00;06:45:00;07:05:00
+1GF14;1;64.33333333333333;8;7;Très bonne;Mauvaise;Très bonne;23:30:00;23:45:00;06:05:00;06:15:00
+1GF14;2;65.33333333333333;9;7;Très bonne;Mauvaise;Très bonne;23:30:00;23:45:00;06:30:00;07:15:00
+1GF14;3;69.33333333333333;9;9;Très bonne;Mauvaise;Très bonne;22:55:00;23:15:00;07:00:00;07:10:00
+1GF14;4;59.666666666666664;8;7;Très bonne;Très bonne;Très bonne;22:55:00;23:15:00;07:00:00;07:15:00
+1GF14;5;73.33333333333333;8;7;Très bonne;Très bonne;Très bonne;22:35:00;22:55:00;07:00:00;07:10:00
+1GF14;6;50.0;8;7;Très bonne;Très bonne;Très bonne;23:05:00;23:25:00;06:30:00;06:45:00
+1GF14;7;62.0;8;7;Très bonne;Très bonne;Très bonne;22:45:00;23:05:00;06:45:00;07:07:00
